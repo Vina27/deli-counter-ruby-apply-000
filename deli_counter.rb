@@ -37,7 +37,7 @@ def take_a_number(ticket)
   ticket.each do |number|
 
 end
-number = "1"
+number = "1 + 1"
 ticket << number
 puts "You are ticket #{ticket}"
 number = "4"
